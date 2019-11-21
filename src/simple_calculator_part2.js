@@ -1,4 +1,4 @@
-module.export = class calculator{
+module.exports = class calculator{
     constructor(){
         this.slots = []
         this.Last = 0
